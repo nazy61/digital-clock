@@ -1,0 +1,13 @@
+body {
+  background: black;
+}
+
+.clock {
+  text-align: center;
+  width: 800px;
+  margin: 40px auto;
+  color: #17d4fe;
+  font-size: 60px;
+  font-family: Orbitron;
+  letter-spacing: 7px;
+}
